@@ -1,0 +1,3 @@
+Reg: 20 Expected:           7 Actual:           0
+Reg: 22 Expected:         -11 Actual:           0
+Reg: 30 Expected:           0 Actual:           5
